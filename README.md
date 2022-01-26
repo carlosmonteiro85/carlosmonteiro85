@@ -2,7 +2,7 @@
 ## Hello, I'm Carlos Monteiro, Olá eu sou Carlos Monteiro  👋 !
 
 - 😄 Java developer - Desenvolvedor Java
-- 🌱 Studying React and Angular 8 - Estudando React e Angular 8
+- 🌱 Studying React and Angular 10+ - Estudando React e Angular 10+
 - 📫 Contact me on email 85devs@gmail.com - Contacte-me no email 85devs@gmail.com
 
  <div>
