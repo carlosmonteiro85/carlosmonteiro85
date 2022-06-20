@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmonteiro85&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="Carlos-Java" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
+   <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Carlos-Js" height="40" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://avatars.githubusercontent.com/u/1171922?s=200&v=4">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
