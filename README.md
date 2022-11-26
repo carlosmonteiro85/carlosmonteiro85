@@ -16,7 +16,10 @@
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
+ <img align="center" alt="docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
+ <img align="center" alt="grails" height="30" width="40" src="https://grails.org/images/grails_logo.svg">
+ <img align="center" alt="sql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/337/337953.png">
+</div>   
   
   ##
  
@@ -25,6 +28,8 @@
   <a href="https://www.instagram.com/carlosmonteiro20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/monteirocarlos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:85devs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
  
  
   ![Snake animation](https://github.com/carlosmonteiro85/carlosmonteiro85/blob/output/github-contribution-grid-snake.svg)
