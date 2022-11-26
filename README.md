@@ -28,11 +28,10 @@
   <a href="https://www.instagram.com/carlosmonteiro20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/monteirocarlos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:85devs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
 
- 
- 
-  ![Snake animation](https://github.com/carlosmonteiro85/carlosmonteiro85/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlosmonteiro85/carlosmonteiro85/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=carlosmonteiro85&theme=dark&hide_border=false)<br/>
+
 
  
 </div>
