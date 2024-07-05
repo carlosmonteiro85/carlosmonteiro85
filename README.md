@@ -14,7 +14,7 @@
   <img align="center" alt="Carlos-Js" height="40" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://avatars.githubusercontent.com/u/1171922?s=200&v=4">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
  <img align="center" alt="grails" height="30" width="40" src="https://grails.org/images/grails_logo.svg">
