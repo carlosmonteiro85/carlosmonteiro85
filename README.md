@@ -1,38 +1,38 @@
 
-## Hello, I'm Carlos Monteiro, Olá eu sou Carlos Monteiro  👋 !
+# Olá, eu sou o Carlos Monteiro 👋
 
-- 😄 Java developer - Desenvolvedor Java
-- 📫 Contact me on email 85devs@gmail.com - Contacte-me no email 85devs@gmail.com
+### Full Stack Developer | Java & Angular
 
- <div>
-  <a href="https://github.com/carlosmonteiro85">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmonteiro85&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmonteiro85&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-   <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Carlos-Js" height="40" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://avatars.githubusercontent.com/u/1171922?s=200&v=4">
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
- <img align="center" alt="grails" height="30" width="40" src="https://grails.org/images/grails_logo.svg">
- <img align="center" alt="sql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/337/337953.png">
-</div>   
-  
-  ##
- 
-<div> 
-   <a href="https://www.linkedin.com/in/carlos-carvalho-monteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/carlosmonteiro20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/monteirocarlos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:85devs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Sou um desenvolvedor focado em construir aplicações web robustas, escaláveis e com foco na experiência do usuário. Tenho experiência em transformar requisitos complexos em soluções técnicas eficientes, atuando desde a arquitetura de APIs em Java até interfaces reativas com Angular.
 
-![Snake animation](https://github.com/carlosmonteiro85/carlosmonteiro85/blob/output/github-contribution-grid-snake.svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=carlosmonteiro85&theme=dark&hide_border=false)<br/>
+---
 
+### 🛠️ No que eu trabalho:
 
- 
-</div>
+* **Frontend:** Desenvolvimento de SPAs modernas com **Angular**, utilizando **RxJS** para gestão de estados complexos e **Angular Material/PrimeNG** para UI/UX de alta fidelidade.
+* **Backend:** Construção de microserviços e APIs RESTful com **Java** e **Spring Boot**, focando em segurança (**Spring Security/OAuth2**), persistência de dados (JPA/Hibernate) e performance.
+* **DevOps & Ferramentas:** Experiência com **Git** (Gitflow), **Docker**, e bancos de dados relacionais (PostgreSQL, Oracle, H2).
+
+---
+
+### 🧪 Principais Tecnologias:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-F38020?style=for-the-badge&logo=jakartaee&logoColor=white)
+
+---
+
+### 📫 Vamos nos conectar?
+
+* [LinkedIn](https://www.linkedin.com/in/carlos-carvalho-monteiro/)
+* 📧 [85devs@gmail.com]
+
 
